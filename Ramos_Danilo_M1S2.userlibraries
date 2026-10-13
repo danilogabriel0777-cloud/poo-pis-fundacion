@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 3.14 (Robot-Bailarin) interpreter library">
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314/DLLs" />
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314/Lib" />
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314" />
+    <archive path="C:/Users/Usuario/IdeaProjects/Robot-Bailarin/.venv" />
+    <archive path="C:/Users/Usuario/IdeaProjects/Robot-Bailarin/.venv/Lib/site-packages" />
+    <archive path="C:/Users/Usuario/AppData/Local/JetBrains/IntelliJIdea2026.1/python_stubs/-1705570297" />
+    <archive path="C:/Users/Usuario/AppData/Roaming/JetBrains/IntelliJIdea2026.1/plugins/python-ce/helpers/typeshed/stdlib" />
+  </library>
+  <library name="Python 3.14 (ArbolBinario) interpreter library">
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314/DLLs" />
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314/Lib" />
+    <archive path="C:/Users/Usuario/AppData/Local/Programs/Python/Python314" />
+    <archive path="C:/Users/Usuario/IdeaProjects/ArbolBinario/.venv" />
+    <archive path="C:/Users/Usuario/IdeaProjects/ArbolBinario/.venv/Lib/site-packages" />
+    <archive path="C:/Users/Usuario/AppData/Local/JetBrains/IntelliJIdea2026.1/python_stubs/1403088178" />
+    <archive path="C:/Users/Usuario/AppData/Roaming/JetBrains/IntelliJIdea2026.1/plugins/python-ce/helpers/typeshed/stdlib" />
+  </library>
+</eclipse-userlibraries>
+
